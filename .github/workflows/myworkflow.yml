@@ -17,9 +17,6 @@ permissions:
   contents: write
   packages: write
 
-permissions:
-  contents: read
-
 jobs:
   build:
 
