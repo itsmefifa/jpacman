@@ -8,7 +8,9 @@ import nl.tudelft.jpacman.sprite.Sprite;
  * @author Jeroen Roosen 
  */
 class BasicSquare extends Square {
-// This is the main method.
+ /**
+     * This is the main method.
+     */
     BasicSquare() {
         super();
     }
