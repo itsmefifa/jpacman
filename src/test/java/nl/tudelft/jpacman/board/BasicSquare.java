@@ -15,7 +15,9 @@ class BasicSquare extends Square {
     BasicSquare() {
         super();
     }
-
+ /**
+     * This is the main method.
+     */
     @Override
     public boolean isAccessibleTo(Unit unit) {
         return true;
